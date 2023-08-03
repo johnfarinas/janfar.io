@@ -1,1 +1,2 @@
 # janfar.io
+Github push
